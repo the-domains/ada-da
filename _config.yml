@@ -1,0 +1,32 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#181715'
+    - '#B3097E'
+    - '#929292'
+    - '#C4C4C4'
+  brandStrength: 0.7841915055178106
+  lightness: 0.9073803713545203
+  saturation: 0.2618192855734378
+  rhythmicContrast: 0.6894023295026273
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Ada-Da
+layout_spectrum: 0.20391490799374878
+typography_spectrum: 0.5366009073331952
+content: []
+title: 'ADA-DA '
+description: PRODUKSJONER
+purpose:
+  - type: contact
+    url: 'tel:+4799263815'
+    label: Call +4799263815
+url: 'http://ada-da.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b22036-a25e-4047-a761-9c3314686a48.png
+github: true
